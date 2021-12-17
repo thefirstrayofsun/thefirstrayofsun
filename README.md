@@ -1,9 +1,4 @@
-
-
-<!---
-thefirstrayofsun/thefirstrayofsun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----># My Portfolio
+# My Portfolio
 
 
 Always "buzzing with thoughts" curious eclectic writer, who further articulates her thoughts into string of words. I like to stay updated on trends and am equipped with extensive experience in writing buzz-worthy content.
