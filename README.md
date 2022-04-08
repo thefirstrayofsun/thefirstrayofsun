@@ -1,9 +1,7 @@
 # My Portfolio
 
-
-Always "buzzing with thoughts" curious eclectic writer, who further articulates her thoughts into string of words. I like to stay updated on trends and am equipped with extensive experience in writing buzz-worthy content.
-I'm right on my toes in order to plunge head first into the sea to trade the waves of skill sets and talents.
-The aim is to pierce through the thick fog of life and eventually reach the destination with big toothy grin.
+I am a proactive digital marketing enthusiast, with reliable command over SEO and Keyword Analysis, well equipped with the domains of social media, content writing and business communication. I am keen to understand customer behavior and plan marketing strategies for growing firms. I have sufficient knowledge
+of excel, presentations, and a strong vocabulary and can handle tense client situations with patience. My past experience has given me a rousing understanding of various marketing channels, commerce platforms, marketing approaches and leading campaigns, deciding on strategies, next posts and making strategies with teams.
 
 # Skills
 
